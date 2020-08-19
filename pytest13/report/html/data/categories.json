@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 判断 a 为偶数，当前 a 的值为：3\nassert (3 % 2) == 0",
+      "children" : [ {
+        "name" : "test_function",
+        "uid" : "e3a3524c6d1f3dee",
+        "parentUid" : "017fedd4723208f56bb2b8ed2d7c39a2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1597305143983,
+          "stop" : 1597305143983,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "017fedd4723208f56bb2b8ed2d7c39a2"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

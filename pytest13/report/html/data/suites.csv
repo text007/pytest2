@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 13 15:52:23 CST 2020","Thu Aug 13 15:52:23 CST 2020","0","","test_01","","","","test_02","断言 b 包含 a"
+"passed","Thu Aug 13 15:52:23 CST 2020","Thu Aug 13 15:52:23 CST 2020","0","","test_01","","","","test_01","断言xx为真"
+"failed","Thu Aug 13 15:52:23 CST 2020","Thu Aug 13 15:52:23 CST 2020","0","","test_assert1","","","","test_function",""
+"passed","Thu Aug 13 15:52:23 CST 2020","Thu Aug 13 15:52:23 CST 2020","0","","test_01","","","","test_04","断言不相等"
+"passed","Thu Aug 13 15:52:23 CST 2020","Thu Aug 13 15:52:23 CST 2020","0","","test_01","","","","test_03","断言相等"
+"passed","Thu Aug 13 15:52:24 CST 2020","Thu Aug 13 15:52:24 CST 2020","0","","test_assert2","","","","test_zero_division","断言异常"
